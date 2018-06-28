@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  > .flex-column {
+    flex: 1;
+    padding: 0 30px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+    > .flex-column {
+      padding: 0;
+    }
+  }
+}

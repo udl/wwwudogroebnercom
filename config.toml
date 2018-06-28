@@ -1,0 +1,37 @@
+baseurl                 = "/"               # Your domain name. Must end with "/"
+languageCode            = "de-de"
+title                   = "Udo Gröbner"
+theme                   = "sam"
+pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
+pygmentsCodefences      = true
+# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform            = "Mon 02 Jan 2006"
+    dateformfull        = "Mon 2 Jan 2006 15:04:05 EST"
+    favicon             = "/favicon.png"
+    homepage            = "start"                        # What to call the home page link
+    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
+    clickablePhotos     = false                          # Allow links to the full size images
+    footerText          = "© Udo Gröbner 2018"
+
+# Metadata
+    description         = "Homepage von Udo Gröbner"            # Max 160 characters show in search results
+    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
+    primaryImage        = "/preview.png"                     # Image that shows on Twitter cards and OpenGraph links
+
+[[params.mainMenu]]
+    link = "/buch"
+    text = "buch"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "foto"
+
+[[params.mainMenu]]
+    link = "/udo"
+    text = "udo gröbner?"
+
+[[params.mainMenu]]
+    link = "/impressum"
+    text = "impressum"
