@@ -52,7 +52,7 @@ oder über den eingebetteten Player:
 Taschenbuch
 
 * [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/waldwellenreiten/udo_groebner/EAN9783752806854/ID128605287.html)
-* [amazon](https://www.amazon.de/dp/3752806850)
+* [amazon](https://smile.amazon.de/dp/3752806850)
 
 {{< /flex-column >}}
 
