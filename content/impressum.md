@@ -28,3 +28,5 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 ## Design
 
 Das Design basiert auf dem [Sam](https://github.com/vickylai/hugo-theme-sam) Theme für [Hugo](https://gohugo.io/).
+
+Impressum generiert von [impressum-generator.de](https://www.impressum-generator.de/).
