@@ -29,6 +29,12 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 Das Design basiert auf dem [Sam](https://github.com/vickylai/hugo-theme-sam) Theme für [Hugo](https://gohugo.io/).  
 Die Schriftart "Didact Gothic" unterliegt der [SIL Open Font](http://scripts.sil.org/OFL) Lizenz.  
-[jQuery](https://jquery.org/license/) unterliegt der [MIT](https://tldrlegal.com/license/mit-license) Lizenz.
+[jQuery](https://jquery.org/license/) unterliegt der [MIT](https://tldrlegal.com/license/mit-license) Lizenz.  
 
-Impressum generiert von [impressum-generator.de](https://www.impressum-generator.de/).
+## Hosting
+
+Diese Seite wird bei [Github Pages](https://pages.github.com/) gehostet. Die Github
+Datenschutzerklärung ist [hier](https://help.github.com/articles/github-privacy-statement/) zu finden.
+
+
+Großteil des Impressums generiert von [impressum-generator.de](https://www.impressum-generator.de/).
