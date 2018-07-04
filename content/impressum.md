@@ -27,6 +27,8 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 ## Design
 
-Das Design basiert auf dem [Sam](https://github.com/vickylai/hugo-theme-sam) Theme für [Hugo](https://gohugo.io/).
+Das Design basiert auf dem [Sam](https://github.com/vickylai/hugo-theme-sam) Theme für [Hugo](https://gohugo.io/).  
+Die Schriftart "Didact Gothic" unterliegt der [SIL Open Font](http://scripts.sil.org/OFL) Lizenz.  
+[jQuery](https://jquery.org/license/) unterliegt der [MIT](https://tldrlegal.com/license/mit-license) Lizenz.
 
 Impressum generiert von [impressum-generator.de](https://www.impressum-generator.de/).
