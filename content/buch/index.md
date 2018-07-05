@@ -51,15 +51,18 @@ oder über den eingebetteten Player:
 {{< flex-column >}}
 Taschenbuch
 
-* [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/waldwellenreiten/udo_groebner/EAN9783752806854/ID128605287.html)
+* [buch7.de](https://www.buch7.de/store/product_details/1034084141)
+* [pustet.de](https://www.pustet.de/shop/article/37276946/udo_groebner_waldwellenreiten.html)
 * [amazon](https://smile.amazon.de/dp/3752806850)
+* [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/waldwellenreiten/udo_groebner/EAN9783752806854/ID128605287.html)
 
 {{< /flex-column >}}
 
 {{< flex-column >}}
 eBook
 
-* Derzeit noch nicht verfügbar
+* [buch7 epub](https://www.buch7.de/store/product_details/1034151747)
+* [amazon kindle](https://smile.amazon.de/dp/B07F92NL31)
 {{< /flex-column >}}
 
 {{< /flex >}}

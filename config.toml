@@ -34,5 +34,9 @@ publishDir              = "docs"
     text = "udo gröbner?"
 
 [[params.mainMenu]]
+    link = "https://subscribe.minutemailer.com/DK06dWkj"
+    text = "newsletter"
+
+[[params.mainMenu]]
     link = "/impressum"
     text = "impressum"

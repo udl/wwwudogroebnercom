@@ -36,5 +36,11 @@ Die Schriftart "Didact Gothic" unterliegt der [SIL Open Font](http://scripts.sil
 Diese Seite wird bei [Github Pages](https://pages.github.com/) gehostet. Die Github
 Datenschutzerklärung ist [hier](https://help.github.com/articles/github-privacy-statement/) zu finden.
 
+## Newsletter
+
+Der Newsletter wird über minutemailer.com versendet. Dazu werden die
+Namen und eMail-Adressen aller Empfänger auf Servern von minutemailer.com
+verschlüsselt auf europäischen Servern gespeichert. Informationen zur
+Datenverarbeitung und DSGVO Konformität sind in einem [Artikel](https://minutemailer.com/privacy-and-gdpr/) zu finden.
 
 Großteil des Impressums generiert von [impressum-generator.de](https://www.impressum-generator.de/).
