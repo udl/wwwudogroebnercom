@@ -63,6 +63,7 @@ eBook
 
 * [amazon kindle](https://smile.amazon.de/dp/B07F92NL31)
 * [apple itunes](https://itunes.apple.com/de/book/waldwellenreiten/id1407875057?mt=11)
+* [kobo](https://www.kobo.com/de/de/ebook/waldwellenreiten)
 * [buch7 epub](https://www.buch7.de/store/product_details/1034151747)
 {{< /flex-column >}}
 
