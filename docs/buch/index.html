@@ -34,6 +34,41 @@
 </html>
 <body><div class="wrap"><div class="section" id="title">Bücher</div><div class="section" id="content">
 
+<!-- Facebook Pixel Datenschutz (C) www.meine-datenschutzerklaerung.de -->
+
+<p><script>
+var fpProperty = &lsquo;mde-service&rsquo;;
+var fpdisableStr = &lsquo;fp-disable-&rsquo; + fpProperty;
+// Opt-out function
+function fpOptout() {
+document.cookie = fpdisableStr + &lsquo;=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/&lsquo;;
+window[fpdisableStr] = true;
+alert(&ldquo;Der Facebook Pixel ist deaktiviert und wird nicht mehr geladen, bitte Seiten neu laden&rdquo;);
+}
+function activatePixelMDE() {
+document.cookie = fpdisableStr+&lsquo;=true; Max-Age=-99999999;path=/&rsquo;;
+window[fpdisableStr] = false;
+alert(&ldquo;Facebook Pixel wird beim nächsten Laden der Seite aktiviert&rdquo;);
+}
+if (document.cookie.indexOf(fpdisableStr + &lsquo;=true&rsquo;) &gt; -1) {
+// FB-Pixel ist deaktiviert durch Nutzer, nichts tun
+console.log(atob(&ldquo;RmFjZWJvb2sgUGl4ZWwgaXN0IGRlYWt0aXZpZXJ0LiBEYXRlbnNjaHV0ei1NZWNoYW5pc211cyB2b24gaHR0cDovL3d3dy5tZWluZS1kYXRlbnNjaHV0emVya2xhZXJ1bmcuZGU=&rdquo;));
+}else {
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=&lsquo;2.0&rsquo;;
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,&lsquo;script&rsquo;,
+&lsquo;<a href="https://connect.facebook.net/en_US/fbevents.js')">https://connect.facebook.net/en_US/fbevents.js')</a>;
+fbq(&lsquo;init&rsquo;, &lsquo;256587938457955&rsquo;);//Hier Ihre ID einsetzen
+fbq(&lsquo;track&rsquo;, &lsquo;PageView&rsquo;);
+console.log(atob(&ldquo;RGF0ZW5zY2h1dHotTWVjaGFuaXNtdXMgdm9uIGh0dHA6Ly93d3cubWVpbmUtZGF0ZW5zY2h1dHplcmtsYWVydW5nLmRl&rdquo;));
+}
+</script>
+<!-- end --></p>
+
 <p>Falls du gelegentlich Neuigkeiten über Aktionen oder neue Bücher haben
 wilst, dann trag dich einfach in den <strong>Newsletter</strong> ein:</p>
 
