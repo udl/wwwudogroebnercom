@@ -24,20 +24,6 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-
-### Facebook tracking opt out
-
-Zum Zwecke der Vermarktung der Bücher ist auf der Buchseite ein
-Trackingpixel von Facebook installiert. Sie haben hier die Möglichkeit,
-dieses Tracking für sich auszuschalten:
-<script>
-if (document.cookie.indexOf(fpdisableStr + '=true') > -1) {
-document.write('<div class="text-center" style="margin-top:24px"><a onclick="activatePixelMDE()">Pixel aktivieren</a></div>');
-}else {
-document.write('<div class="text-center" style="margin-top:24px;margin-bottom:96px"><a onclick="fpOptout()">Pixel deaktivieren</a></div>');
-}
-</script>
-
 ## Design
 
 Das Design basiert auf dem [Sam](https://github.com/vickylai/hugo-theme-sam) Theme für [Hugo](https://gohugo.io/).  
