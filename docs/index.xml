@@ -16,7 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/buch/</guid>
-      <description>var fpProperty = &amp;lsquo;mde-service&amp;rsquo;; var fpdisableStr = &amp;lsquo;fp-disable-&amp;rsquo; + fpProperty; // Opt-out function function fpOptout() { document.cookie = fpdisableStr + &amp;lsquo;=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/&amp;lsquo;; window[fpdisableStr] = true; alert(&amp;ldquo;Der Facebook Pixel ist deaktiviert und wird nicht mehr geladen, bitte Seiten neu laden&amp;rdquo;); } function activatePixelMDE() { document.cookie = fpdisableStr+&amp;lsquo;=true; Max-Age=-99999999;path=/&amp;rsquo;; window[fpdisableStr] = false; alert(&amp;ldquo;Facebook Pixel wird beim nächsten Laden der Seite aktiviert&amp;rdquo;); } if (document.cookie.indexOf(fpdisableStr + &amp;lsquo;=true&amp;rsquo;) &amp;gt; -1) { // FB-Pixel ist deaktiviert durch Nutzer, nichts tun console.</description>
+      <description>Falls du gelegentlich Neuigkeiten über Aktionen oder neue Bücher haben wilst, dann trag dich einfach in den Newsletter ein:
+Eintragen  Ich gebe die eMail Adressen nicht weiter und verwende sie ausschließlich für diesen Newsletter. Es handelt sich bei minutemailer um einen schwedischen Dienstleister, der die Adressen verschlüsselt auf europäischen Servern speichert.
+waldwellenreiten     
+Die Erzählung waldwellenreiten erschien im Sommer 2018 als Taschenbuch und eBook.    Inhalt: Florian Berthold lernt auf einer USA-Reise seine Frau kennen, mit der er eine Hotelkette aufbaut.</description>
     </item>
     
     <item>
