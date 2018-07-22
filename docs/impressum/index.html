@@ -29,6 +29,89 @@
     
     
 
+
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+var disableStr = 'custom-disable';
+if (document.cookie.indexOf(disableStr + '=true') > -1) {
+  
+} else {
+  
+  fbq('init', '256587938457955');
+  fbq('track', 'PageView');
+}
+
+
+function customOptout() {
+  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+}
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=256587938457955&amp;ev=PageView&amp;noscript=1"
+/></noscript>
+
+
+<link rel="stylesheet" type="text/css" href="css/cookieconsent.min.css" />
+<script src="js/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
+    }
+  },
+  "theme": "edgeless",
+  "type": "opt-out",
+  "content": {
+    "message": "Diese Website kommt leider nicht ohne Cookies aus.",
+    "dismiss": "Ist ok",
+    "deny": "Nein, danke",
+    "link": "Mehr Informationen",
+    "href": "/impressum"
+  },
+  onInitialise: function (status) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+    
+    console.log("opt-in");
+  }
+  if (type == 'opt-out' && !didConsent) {
+    
+    console.log("opt-out");
+    gaOptout();
+    customOptout();
+  }
+},
+onStatusChange: function(status, chosenBefore) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+    
+    console.log("opt-in");
+  }
+  if (type == 'opt-out' && !didConsent) {
+    
+    console.log("opt-out");
+    gaOptout();
+    customOptout();
+  }
+}})});
+</script>
+
 </head>
 
 </html>
@@ -60,7 +143,8 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 <p>Das Design basiert auf dem <a href="https://github.com/vickylai/hugo-theme-sam">Sam</a> Theme für <a href="https://gohugo.io/">Hugo</a>.<br />
 Die Schriftart &ldquo;Didact Gothic&rdquo; unterliegt der <a href="http://scripts.sil.org/OFL">SIL Open Font</a> Lizenz.<br />
-<a href="https://jquery.org/license/">jQuery</a> unterliegt der <a href="https://tldrlegal.com/license/mit-license">MIT</a> Lizenz.</p>
+<a href="https://jquery.org/license/">jQuery</a> unterliegt der <a href="https://tldrlegal.com/license/mit-license">MIT</a> Lizenz.<br />
+<a href="https://cookieconsent.insites.com/">Cookie consent</a> unterliegt der <a href="https://tldrlegal.com/license/mit-license">MIT</a> Lizenz.</p>
 
 <h2 id="hosting">Hosting</h2>
 
@@ -73,6 +157,46 @@ Datenschutzerklärung ist <a href="https://help.github.com/articles/github-priva
 Namen und eMail-Adressen aller Empfänger auf Servern von minutemailer.com
 verschlüsselt auf europäischen Servern gespeichert. Informationen zur
 Datenverarbeitung und DSGVO Konformität sind in einem <a href="https://minutemailer.com/privacy-and-gdpr/">Artikel</a> zu finden.</p>
+
+<h2 id="cookies">Cookies</h2>
+
+<h3 id="google-analytics">Google Analytics</h3>
+
+<p>Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics eingesetzt, ein Webanalysedienst der Google LLC (&bdquo;Google&ldquo;). Die Nutzung umfasst die Betriebsart &bdquo;Universal Analytics&ldquo;. Hierdurch ist es möglich, Daten, Sitzungen und Interaktionen über mehrere Geräte hinweg einer pseudonymen User-ID zuzuordnen und so die Aktivitäten eines Nutzers geräteübergreifend zu analysieren. Dieser Datenschutzhinweis wird zur Verfügung gestellt von <a href="https://www.intersoft-consulting.de" target="_blank">www.intersoft-consulting.de</a>.</p>
+
+<p>Google Analytics verwendet sog. &bdquo;Cookies&ldquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um eine IP-Anonymisierung erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter <a href="https://www.google.com/analytics/terms/de.html" target="_blank"><a href="https://www.google.com/analytics/terms/de.html">https://www.google.com/analytics/terms/de.html</a></a> bzw. unter <a href="https://policies.google.com/?hl=de" target="_blank"><a href="https://policies.google.com/?hl=de">https://policies.google.com/?hl=de</a></a>.</p>
+
+<p><strong>Zwecke der Verarbeitung</strong><br>
+Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen.
+<strong>Rechtsgrundlage</strong><br>
+Die Rechtsgrundlage für den Einsatz von Google Analytics ist Ihre Einwilligung gemäß <a href="https://dsgvo-gesetz.de/art-6-dsgvo/" target="_blank">Art. 6 Abs. 1 S.1 lit. a DSGVO</a>.
+<strong>Empfänger / Kategorien von Empfängern</strong><br>
+Der Empfänger der erhobenen Daten ist Google.
+<strong>Übermittlung in Drittstaaten</strong><br>
+Die personenbezogenen Daten werden unter dem EU-US Privacy Shield auf Grundlage des Angemessenheitsbeschlusses der Europäischen Kommission in die USA übermittelt. Das Zertifikat können Sie <a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI" target="_blank">hier</a> abrufen.
+<strong>Dauer der Datenspeicherung</strong><br>
+Die von uns gesendeten und mit Cookies, Nutzerkennungen (z. B. User-ID) oder Werbe-IDs verknüpften Daten werden nach 14 Monaten automatisch gelöscht. Die Löschung von Daten, deren Aufbewahrungsdauer erreicht ist, erfolgt automatisch einmal im Monat.
+<strong>Betroffenenrechte</strong><br>
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können.</p>
+
+<p>Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">Browser-Add-on</a> herunterladen und installieren. Opt-Out-Cookies verhindern die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website. Um die Erfassung durch Universal Analytics über verschiedene Geräte hinweg zu verhindern, müssen Sie das Opt-Out auf allen genutzten Systemen durchführen. Wenn Sie hier klicken, wird das Opt-Out-Cookie gesetzt: <a href="javascript:gaOptout()"><strong>Google Analytics deaktivieren</strong></a></p>
+
+<h3 id="facebook-pixel">Facebook pixel</h3>
+
+<p>Wir verwenden auf unserer Webseite &ldquo;Facebook Pixel&rdquo;, einen Dienst der Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA (nachfolgend bezeichnet als: “Facebook&rdquo;). Facebook Pixel ermöglicht es Facebook, unsere Anzeigen auf Facebook, sog. &ldquo;Facebook-Ads&rdquo; nur solchen Facebook-Nutzern anzuzeigen, die Besucher unserer Webseite waren, insbesondere solchen, die Interesse an unserem Onlineangebot oder an bestimmten Themen oder Produkten gezeigt haben. Facebook-Pixel ermöglicht eine Überprüfung, ob ein Nutzer nach einem Klick auf unsere Facebook-Ads auf unsere Webseite weitergeleitet wurde. Facebook Pixel verwendet unter anderem Cookies, also kleine Textdateien, die lokal im Zwischenspeicher Ihres Webbrowsers auf Ihrem Endgerät gespeichert werden. Wenn Sie bei Facebook mit Ihrem Nutzerkonto angemeldet sind, wird der Besuch unseres Onlineangebotes in Ihrem Nutzerkonto vermerkt. Die über Sie erhobenen Daten sind für uns anonym, bieten uns also keine Rückschlüsse auf die Identität der Nutzer. Allerdings können diese Daten von Facebook mit Ihrem dortigen Nutzerkonto verknüpft werden. Wir haben keinen Einfluss auf den Umfang und die weitere Verwendung von Daten, die durch den Einsatz von Facebook Pixel durch Facebook erhoben werden. Nach unserem Kenntnisstand erhält Facebook die Information, dass Sie den entsprechenden Teil unserer Webseite aufgerufen oder eine Anzeige von uns angeklickt haben. Wenn Sie über ein Nutzerkonto bei Facebook verfügen und registriert sind, kann Facebook den Besuch Ihrem Nutzerkonto zuordnen. Selbst wenn Sie nicht bei Facebook registriert sind bzw. sich nicht eingeloggt haben, besteht die Möglichkeit, dass der Facebook Ihre IP-Adresse und ggf. weitere Identifizierungsmerkmale in Erfahrung bringt und speichert.</p>
+
+<p>Wir verwenden Facebook Pixel zu Marketing- und Optimierungszwecken, insbesondere um für Sie relevante und interessante Anzeigen bei Facebook zu schalten und so unser Angebot zu verbessern, für Sie als Nutzer interessanter auszugestalten und belästigende Anzeigen zu vermeiden. Hierin liegt auch unser berechtigtes Interesse an der Verarbeitung der vorstehenden Daten durch den Drittanbieter. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f) DSGVO.</p>
+
+<p>Der vorbeschriebenen Erfassung durch Facebook Pixel sowie der Verwendung Ihrer Daten zur Darstellung von Facebook-Ads können Sie widersprechen. Einstellungen dahingehend, welche Arten von Werbeanzeigen Ihnen innerhalb von Facebook angezeigt werden, können Sie auf der nachfolgenden Webseite von Facebook vornehmen: <a href="https://www.facebook.com/settings?tab=ads">https://www.facebook.com/settings?tab=ads</a>. Wir weisen Sie darauf hin, dass diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen. Darüber hinaus können Sie Cookies, die der Reichweitenmessung und Werbezwecken dienen, über die nachfolgenden Webseiten deaktivieren:</p>
+
+<p><a href="http://optout.networkadvertising.org/">http://optout.networkadvertising.org/</a><br />
+<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a><br />
+<a href="http://www.youronlinechoices.com/uk/your-ad-choices/">http://www.youronlinechoices.com/uk/your-ad-choices/</a><br />
+Wir weisen Sie darauf hin, dass auch diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen.</p>
+
+<p>Zudem hat sich Facebook dem zwischen der Europäischen Union und den USA geschlossenen Privacy-Shield-Abkommen unterworfen und sich zertifiziert. Dadurch verpflichtet sich Facebook, die Standards und Vorschriften des europäischen Datenschutzrechts einzuhalten. Nähere Informationen können Sie dem nachfolgend verlinkten Eintrag entnehmen: <a href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active</a></p>
+
+<p>Informationen des Drittanbieters: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Weitere Informationen des Drittanbieters zum Datenschutz können Sie der nachfolgenden Webseite von Facebook entnehmen: <a href="https://www.facebook.com/about/privacy">https://www.facebook.com/about/privacy</a>. Informationen zu Facebook-Pixel können Sie der nachfolgenden Webseite von Facebook entnehmen: <a href="https://www.facebook.com/business/help/651294705016616">https://www.facebook.com/business/help/651294705016616</a></p>
 
 <p>Großteil des Impressums generiert von <a href="https://www.impressum-generator.de/">impressum-generator.de</a>.</p>
 </div><div class="section bottom-menu"><hr/><p>
