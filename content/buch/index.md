@@ -35,7 +35,7 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 
 {{< /flex >}}
 
-### Inhalt:
+### Inhalt
 
 Florian Berthold lernt auf einer USA-Reise seine Frau kennen, mit der er eine Hotelkette aufbaut.
 Als seine Ehe scheitert und seine Mutter stirbt, beschließt er, an einen Glücksort seiner Jugend zurückzukehren: eine Pension im Bayerischen Wald. Oskar, der Besitzer dieser Pension, hat seinerseits mit finanziellen Problemen zu kämpfen.
@@ -58,7 +58,9 @@ oder über den eingebetteten Player:
 
 ### Kaufen
 
-{{< flex >}}
+Das Buch ist sowohl im stationären Handel als auch im Internet
+verfügbar:
+{{< flex buy >}}
 
 {{< flex-column >}}
 Taschenbuch
@@ -77,6 +79,7 @@ eBook
 * [apple itunes](https://itunes.apple.com/de/book/waldwellenreiten/id1407875057?mt=11)
 * [kobo](https://www.kobo.com/de/de/ebook/waldwellenreiten)
 * [buch7 epub](https://www.buch7.de/store/product_details/1034151747)
+* [google play books](https://play.google.com/store/books/details/Udo_Gr%C3%B6bner_waldwellenreiten?id=0xBjDwAAQBAJ)
 {{< /flex-column >}}
 
 {{< /flex >}}
