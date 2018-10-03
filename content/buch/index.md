@@ -35,6 +35,23 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 
 {{< /flex >}}
 
+### Presse
+
+{{< flex buy >}}
+{{< flex-column >}}
+#### "Premiere gelungen!"
+[hogn.de (1.8.2018)](https://www.hogn.de/2018/08/01/2-kultur-im-bayerischen-wald/1-ausm-woid/waldwellenreiten-udo-groebner-passau-bayerischer-wald-buch-rezension/111592)
+<br />
+{{< /flex-column >}}
+{{< flex-column >}}
+#### "Ein tolles Erstlingswerk!"
+[Am Sonntag (26.9.2018)](https://www.facebook.com/amsonntag.passau/posts/2159662030771149)
+<br />
+{{< /flex-column >}}
+{{< /flex >}}
+
+{{< figure src="amsonntag.jpeg" alt="Rezension 'Am Sonntag' (23.9.2018)" >}}
+
 ### Inhalt
 
 Florian Berthold lernt auf einer USA-Reise seine Frau kennen, mit der er eine Hotelkette aufbaut.
