@@ -48,9 +48,12 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 [Am Sonntag (26.9.2018)](https://www.facebook.com/amsonntag.passau/posts/2159662030771149)
 <br />
 {{< /flex-column >}}
-{{< /flex >}}
 
-{{< figure src="amsonntag.jpeg" alt="Rezension 'Am Sonntag' (23.9.2018)" >}}
+{{< flex-column >}}
+#### "Eine spannende Geschichte voller Gegensätzlichkeiten"
+[Grafenauer Anzeiger (3.12.2018)](https://plus.pnp.de/lokales/grafenau/3157584_Uebers-Wellenreiten-im-Nationalpark.html)
+{{< /flex-column >}}
+{{< /flex >}}
 
 ### Inhalt
 
@@ -58,20 +61,6 @@ Florian Berthold lernt auf einer USA-Reise seine Frau kennen, mit der er eine Ho
 Als seine Ehe scheitert und seine Mutter stirbt, beschließt er, an einen Glücksort seiner Jugend zurückzukehren: eine Pension im Bayerischen Wald. Oskar, der Besitzer dieser Pension, hat seinerseits mit finanziellen Problemen zu kämpfen.
 Beide beschließen, gemeinsam einen künstlichen Surfpool im Nationalpark zu bauen.
 Doch damit fangen die Schwierigkeiten erst richtig an...
-
-### Soundtrack
-
-Der Soundtrack zum Buch ist als Playlist bei spotify verfügbar.
-Es handelt sich dabei um eine Liste von Songs, die entweder im Buch vorkommen (wenige)
- oder die bei der Entstehung des Buches gehört wurden (viele).
-Zu hören entweder über diesen [Link](https://open.spotify.com/user/1122799190/playlist/3LZihrwbwWpPZDhxwwBzKn?si=Ed40ywx9QSKNKnvHWeF9OQ)
-oder über den eingebetteten Player:
-
-
-{{< spotify-playlist "3LZihrwbwWpPZDhxwwBzKn" >}}
-
-
-(Falls der Spotify Player nicht angezeigt wird, prüfe deinen AdBlocker)
 
 ### Kaufen
 
@@ -100,3 +89,18 @@ eBook
 {{< /flex-column >}}
 
 {{< /flex >}}
+
+### Soundtrack
+
+Der Soundtrack zum Buch ist als Playlist bei spotify verfügbar.
+Es handelt sich dabei um eine Liste von Songs, die entweder im Buch vorkommen (wenige)
+ oder die bei der Entstehung des Buches gehört wurden (viele).
+Zu hören entweder über diesen [Link](https://open.spotify.com/user/1122799190/playlist/3LZihrwbwWpPZDhxwwBzKn?si=Ed40ywx9QSKNKnvHWeF9OQ)
+oder über den eingebetteten Player:
+
+
+{{< spotify-playlist "3LZihrwbwWpPZDhxwwBzKn" >}}
+
+
+(Falls der Spotify Player nicht angezeigt wird, prüfe deinen AdBlocker)
+
