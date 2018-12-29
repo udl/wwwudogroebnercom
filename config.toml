@@ -4,7 +4,7 @@ title                   = "Udo Gröbner"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
-#googleAnalytics         = "UA-122605529-1"             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = false #"UA-122605529-1"             # Tracking code, eg. "UA-111111111-1"
 publishDir              = "docs"
 
 [params]
