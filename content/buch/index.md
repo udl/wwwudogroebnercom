@@ -57,10 +57,11 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 
 ### Inhalt
 
-Florian Berthold lernt auf einer USA-Reise seine Frau kennen, mit der er eine Hotelkette aufbaut.
-Als seine Ehe scheitert und seine Mutter stirbt, beschließt er, an einen Glücksort seiner Jugend zurückzukehren: eine Pension im Bayerischen Wald. Oskar, der Besitzer dieser Pension, hat seinerseits mit finanziellen Problemen zu kämpfen.
-Beide beschließen, gemeinsam einen künstlichen Surfpool im Nationalpark zu bauen.
-Doch damit fangen die Schwierigkeiten erst richtig an...
+Episodenhaft erzählt Udo Gröbner aus dem Leben von Olympiasieger Florian und Gastwirt Oskar, die so gar nichts gemeinsam haben. Dem einen gelingt alles während der andere mit seinem Schicksal hadert.
+Aber irgendwo zwischen Atlanta und dem bayerischen Wald berühren sich diese Linien, um letztlich einer verrückten Idee nachzuspüren: ein Surfpool. Im Naturschutzgebiet.
+Aber wieso eigentlich nicht?
+
+Eine Geschichte über Zufälle und Lebensentwürfe, sicher geglaubte Wahrheiten und weitreichende Entscheidungen.
 
 ### Kaufen
 
