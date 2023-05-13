@@ -40,3 +40,10 @@ publishDir              = "docs"
 [[params.mainMenu]]
     link = "/impressum"
     text = "impressum"
+
+# allow hugo shortcuts
+# https://stackoverflow.com/a/63206852
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
