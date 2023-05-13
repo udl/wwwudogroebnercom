@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udo Gröbner</title>
     <link>/</link>
     <description>Recent content on Udo Gröbner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-de</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bücher</title>
       <link>/buch/</link>
@@ -17,9 +13,7 @@
       
       <guid>/buch/</guid>
       <description>Falls du gelegentlich Neuigkeiten über Aktionen oder neue Bücher haben wilst, dann trag dich einfach in den Newsletter ein:
-Eintragen  Ich gebe die eMail Adressen nicht weiter und verwende sie ausschließlich für diesen Newsletter. Es handelt sich bei minutemailer um einen schwedischen Dienstleister, der die Adressen verschlüsselt auf europäischen Servern speichert.
-waldwellenreiten     
-Die Erzählung waldwellenreiten erschien im Sommer 2018 als Taschenbuch und eBook.    Presse &amp;ldquo;Premiere gelungen!</description>
+waldwellenreiten Presse &amp;ldquo;Premiere gelungen!&amp;rdquo; hogn.de (1.8.2018) &amp;ldquo;Ein tolles Erstlingswerk!&amp;rdquo; Am Sonntag (26.9.2018) &amp;ldquo;Eine spannende Geschichte voller Gegensätzlichkeiten&amp;rdquo; Grafenauer Anzeiger (3.12.2018) Inhalt Episodenhaft erzählt Udo Gröbner aus dem Leben von Olympiasieger Florian und Gastwirt Oskar, die so gar nichts gemeinsam haben. Dem einen gelingt alles während der andere mit seinem Schicksal hadert. Aber irgendwo zwischen Atlanta und dem bayerischen Wald berühren sich diese Linien, um letztlich einer verrückten Idee nachzuspüren: ein Surfpool.</description>
     </item>
     
     <item>
@@ -28,7 +22,8 @@ Die Erzählung waldwellenreiten erschien im Sommer 2018 als Taschenbuch und eBoo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/impressum/</guid>
-      <description>Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+      <description>Datenschutz Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</description>
     </item>
     
     <item>
@@ -37,7 +32,7 @@ Die Erzählung waldwellenreiten erschien im Sommer 2018 als Taschenbuch und eBoo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/udo/</guid>
-      <description>   Udo Gröbner, geboren 1981, wuchs im Bayerischen Wald auf und schrieb seine ersten Kurzgeschichten im Alter von acht Jahren. Nach ersten Gehversuchen im Journalismus entschied er sich letztlich für das Studium der Informatik. Mit der 2018 erschienenen Erzählung &amp;ldquo;Waldwellenreiten&amp;rdquo; erfüllte er sich den Traum, einen längeren belletristischen Text zu veröffentlichen.   </description>
+      <description> Udo Gröbner, geboren 1981, wuchs im Bayerischen Wald auf und schrieb seine ersten Kurzgeschichten im Alter von acht Jahren. Nach ersten Gehversuchen im Journalismus entschied er sich letztlich für das Studium der Informatik. Mit der 2018 erschienenen Erzählung &amp;ldquo;Waldwellenreiten&amp;rdquo; erfüllte er sich den Traum, einen längeren belletristischen Text zu veröffentlichen. </description>
     </item>
     
   </channel>
