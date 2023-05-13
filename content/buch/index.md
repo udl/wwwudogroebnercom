@@ -25,7 +25,7 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 {{< flex-column >}}
 
 > <br />
-> Die Erzählung **waldwellenreiten** erschien im Sommer 2018 als
+> Die Erzählung <b>waldwellenreiten</b> erschien im Sommer 2018 als
 > Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.
 > <br />
 > <br />
