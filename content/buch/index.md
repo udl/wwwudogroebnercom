@@ -26,7 +26,7 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 
 > <br />
 > Die Erzählung **waldwellenreiten** erschien im Sommer 2018 als
-> Taschenbuch und eBook.
+> Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.
 > <br />
 > <br />
 > <br />
@@ -87,6 +87,15 @@ eBook
 * [kobo](https://www.kobo.com/de/de/ebook/waldwellenreiten)
 * [buch7 epub](https://www.buch7.de/store/product_details/1034151747)
 * [google play books](https://play.google.com/store/books/details/Udo_Gr%C3%B6bner_waldwellenreiten?id=0xBjDwAAQBAJ)
+{{< /flex-column >}}
+
+{{< flex-column >}}
+Audiobook
+
+* [amazon](https://www.amazon.de/music/player/albums/B09Z6Q1GJL?marketplaceId=A1PA6795UKMFR9&musicTerritory=DE&trackAsin=B09Z72DT79&ref=sr_1_5&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=waldwellenreiten&crid=9190NJK7MP1J&sprefix=waldwellenreiten%2Caps%2C138&qid=1654848356&sr=8-5)
+* [apple itunes](https://books.apple.com/de/audiobook/waldwellenreiten-ungek%C3%BCrzt/id1621684673)
+* [google](https://play.google.com/store/audiobooks/details/Udo_Gr%C3%B6bner_Waldwellenreiten_Ungek%C3%BCrzt?id=AQAAAED8_WG9jM&hl=de&gl=US)
+* [spotify](https://open.spotify.com/album/3MZQJjXEATRxCZsj36gdR7)
 {{< /flex-column >}}
 
 {{< /flex >}}
