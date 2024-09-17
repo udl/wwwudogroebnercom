@@ -4,7 +4,8 @@
     <title>Fotos on Udo Gröbner</title>
     <link>/gallery/</link>
     <description>Recent content in Fotos on Udo Gröbner</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
