@@ -3,8 +3,8 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-cd themes/sam; npm run build; cd ../..
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+# The theme's compiled layouts and CSS are committed, so Hugo is all that's needed.
+hugo
 
 # Add changes to git.
 git add docs/

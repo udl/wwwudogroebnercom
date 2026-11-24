@@ -2,7 +2,23 @@
 title: "Impressum"
 ---
 
-![Impressumsangaben](/impressum.png)
+Angaben gemäß § 5 DDG
+
+Udo Gröbner  
+Hochstr. 18  
+94032 Passau
+
+Vertreten durch:  
+Udo Gröbner
+
+Kontakt:  
+Telefon: 0151-24079730  
+E-Mail: {{< email user="mail" domain="udogroebner.com" >}}
+
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:  
+Udo Gröbner  
+Hochstr. 18  
+94032 Passau
 
 ## Datenschutz
 

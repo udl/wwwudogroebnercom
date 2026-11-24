@@ -1,0 +1,5 @@
+{{- $user := .Get "user" -}}
+{{- $domain := .Get "domain" -}}
+{{- $fallback := printf "%s [at] %s" $user (replace $domain "." " [dot] ") -}}
+{{- $encoded := base64Encode (printf "%s@%s" $user $domain) -}}
+<span class="obfuscated-email" data-email="{{ $encoded }}">{{ $fallback }}</span>
