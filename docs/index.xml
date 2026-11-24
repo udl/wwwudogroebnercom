@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Udo Gröbner</title>
-    <link>/</link>
-    <description>Recent content on Udo Gröbner</description>
-    <generator>Hugo</generator>
-    <language>de-de</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bücher</title>
-      <link>/buch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/buch/</guid>
-      <description>&lt;p&gt;Falls du gelegentlich Neuigkeiten über Aktionen oder neue Bücher haben&#xA;wilst, dann trag dich einfach in den &lt;strong&gt;Newsletter&lt;/strong&gt; ein:&lt;/p&gt;&#xA;&lt;form action=&#34;https://subscribe.minutemailer.com/DK06dWkj&#34; method=&#34;post&#34;&gt;&#xA;&lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Dein Name&#34; style=&#34;padding: 15px&#34; /&gt;&#xA;&lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Deine eMail Adresse&#34; style=&#34;padding: 15px&#34; /&gt;&#xA;&lt;button type=&#34;submit&#34;&gt;Eintragen&lt;/button&gt;&#xA;&lt;/form&gt;&#xA;&lt;p style=&#34;font-size: small&#34;&gt;Ich gebe die eMail Adressen nicht weiter und verwende sie ausschließlich für diesen Newsletter. Es handelt sich bei minutemailer um einen schwedischen Dienstleister, der die Adressen verschlüsselt auf europäischen Servern speichert.&lt;/p&gt;&#xA;&lt;h1 id=&#34;waldwellenreiten&#34;&gt;waldwellenreiten&lt;/h1&gt;&#xA;&lt;div class=&#34;flex-container &#34;&gt;&#xA;  &#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;    &lt;figure&gt;&lt;img src=&#34;/buch/waldwellenreiten_cover.jpg&#34;&#xA;      alt=&#34;Cover waldwellenreiten&#34;&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;blockquote&gt;&#xA;&lt;br /&gt;&#xA;Die Erzählung &lt;b&gt;waldwellenreiten&lt;/b&gt; erschien im Sommer 2018 als&#xA;Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;presse&#34;&gt;Presse&lt;/h3&gt;&#xA;&lt;div class=&#34;flex-container buy&#34;&gt;&#xA;  &#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;h4 id=&#34;premiere-gelungen&#34;&gt;&amp;ldquo;Premiere gelungen!&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.hogn.de/2018/08/01/2-kultur-im-bayerischen-wald/1-ausm-woid/waldwellenreiten-udo-groebner-passau-bayerischer-wald-buch-rezension/111592&#34;&gt;hogn.de (1.8.2018)&lt;/a&gt;&#xA;&lt;br /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>/impressum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/impressum/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/impressum.png&#34; alt=&#34;Impressumsangaben&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h2&gt;&#xA;&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br&gt;&#xA;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;br&gt;&#xA;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Udo Gröbner</title>
-      <link>/udo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/udo/</guid>
-      <description>&lt;div class=&#34;flex-container &#34;&gt;&#xA;  &#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;    &lt;figure&gt;&lt;img src=&#34;/udo/udi_color_small.jpg&#34;&#xA;      alt=&#34;Udo Gröbner&#34;&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  Udo Gröbner, geboren 1981, wuchs im Bayerischen Wald auf und schrieb seine ersten Kurzgeschichten im Alter von acht Jahren. Nach ersten Gehversuchen im Journalismus entschied er sich letztlich für das Studium der Informatik. Mit der 2018 erschienenen Erzählung &amp;ldquo;Waldwellenreiten&amp;rdquo; erfüllte er sich den Traum, einen längeren belletristischen Text zu veröffentlichen.&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Udo Gröbner</title>
+		<link>/</link>
+		<description>Recent content on Udo Gröbner</description>
+		<generator>Hugo</generator>
+		<language>de-de</language>
+		
+		
+		
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bücher</title>
+				<link>/buch/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/buch/</guid>
+				<description>&lt;p&gt;Falls du gelegentlich Neuigkeiten über Aktionen oder neue Bücher haben&#xA;wilst, dann trag dich einfach in den &lt;strong&gt;Newsletter&lt;/strong&gt; ein:&lt;/p&gt;&#xA;&lt;form action=&#34;https://subscribe.minutemailer.com/DK06dWkj&#34; method=&#34;post&#34;&gt;&#xA;&lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Dein Name&#34; style=&#34;padding: 15px&#34; /&gt;&#xA;&lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Deine eMail Adresse&#34; style=&#34;padding: 15px&#34; /&gt;&#xA;&lt;button type=&#34;submit&#34;&gt;Eintragen&lt;/button&gt;&#xA;&lt;/form&gt;&#xA;&lt;p style=&#34;font-size: small&#34;&gt;Ich gebe die eMail Adressen nicht weiter und verwende sie ausschließlich für diesen Newsletter. Es handelt sich bei minutemailer um einen schwedischen Dienstleister, der die Adressen verschlüsselt auf europäischen Servern speichert.&lt;/p&gt;&#xA;&lt;h1 id=&#34;waldwellenreiten&#34;&gt;waldwellenreiten&lt;/h1&gt;&#xA;&lt;div class=&#34;flex-container &#34;&gt;&#xA;  &#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;    &lt;figure&gt;&lt;img src=&#34;/buch/waldwellenreiten_cover.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;Cover waldwellenreiten&#34;&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;blockquote&gt;&#xA;&lt;br /&gt;&#xA;Die Erzählung &lt;b&gt;waldwellenreiten&lt;/b&gt; erschien im Sommer 2018 als&#xA;Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;presse&#34;&gt;Presse&lt;/h3&gt;&#xA;&lt;div class=&#34;flex-container buy&#34;&gt;&#xA;  &#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;h4 id=&#34;premiere-gelungen&#34;&gt;&amp;ldquo;Premiere gelungen!&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.hogn.de/2018/08/01/2-kultur-im-bayerischen-wald/1-ausm-woid/waldwellenreiten-udo-groebner-passau-bayerischer-wald-buch-rezension/111592&#34;&gt;hogn.de (1.8.2018)&lt;/a&gt;&#xA;&lt;br /&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;h4 id=&#34;ein-tolles-erstlingswerk&#34;&gt;&amp;ldquo;Ein tolles Erstlingswerk!&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/amsonntag.passau/posts/2159662030771149&#34;&gt;Am Sonntag (26.9.2018)&lt;/a&gt;&#xA;&lt;br /&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  &lt;h4 id=&#34;eine-spannende-geschichte-voller-gegensätzlichkeiten&#34;&gt;&amp;ldquo;Eine spannende Geschichte voller Gegensätzlichkeiten&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://plus.pnp.de/lokales/grafenau/3157584_Uebers-Wellenreiten-im-Nationalpark.html&#34;&gt;Grafenauer Anzeiger (3.12.2018)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Impressum</title>
+				<link>/impressum/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/impressum/</guid>
+				<description>&lt;p&gt;Angaben gemäß § 5 DDG&lt;/p&gt;&#xA;&lt;p&gt;Udo Gröbner&lt;br&gt;&#xA;Hochstr. 18&lt;br&gt;&#xA;94032 Passau&lt;/p&gt;&#xA;&lt;p&gt;Vertreten durch:&lt;br&gt;&#xA;Udo Gröbner&lt;/p&gt;&#xA;&lt;p&gt;Kontakt:&lt;br&gt;&#xA;Telefon: 0151-24079730&lt;br&gt;&#xA;E-Mail: &lt;span class=&#34;obfuscated-email&#34; data-email=&#34;bWFpbEB1ZG9ncm9lYm5lci5jb20=&#34;&gt;mail [at] udogroebner [dot] com&lt;/span&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:&lt;br&gt;&#xA;Udo Gröbner&lt;br&gt;&#xA;Hochstr. 18&lt;br&gt;&#xA;94032 Passau&lt;/p&gt;&#xA;&lt;h2 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h2&gt;&#xA;&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br&gt;&#xA;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;br&gt;&#xA;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Udo Gröbner</title>
+				<link>/udo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/udo/</guid>
+				<description>&lt;div class=&#34;flex-container &#34;&gt;&#xA;  &#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;    &lt;figure&gt;&lt;img src=&#34;/udo/udi_color_small.jpg&#34;&#xA;  &#x9;&#x9;&#x9;alt=&#34;Udo Gröbner&#34;&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;flex-column &#34;&gt;&#xA;  Udo Gröbner, geboren 1981, wuchs im Bayerischen Wald auf und schrieb seine ersten Kurzgeschichten im Alter von acht Jahren. Nach ersten Gehversuchen im Journalismus entschied er sich letztlich für das Studium der Informatik. Mit der 2018 erschienenen Erzählung &amp;ldquo;Waldwellenreiten&amp;rdquo; erfüllte er sich den Traum, einen längeren belletristischen Text zu veröffentlichen.&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+	</channel>
 </rss>
