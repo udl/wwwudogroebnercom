@@ -10,7 +10,7 @@ title: "Container fünf"
 
 {{< flex-column >}}
 > <br />
-> Der erste Teil der Solomon-Boldt Reihe **Container fünf** erschien im Dezember 2026.
+> Der erste Teil der Solomon-Boldt-Reihe <b>Container fünf</b> erscheint im Dezember 2026.
 > <br />
 > <br />
 > <br />

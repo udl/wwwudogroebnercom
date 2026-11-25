@@ -35,7 +35,7 @@ Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.
 <a href="/container-fuenf/"><img class="book-cover" src="/container-fuenf/container_fuenf.jpg" alt="Cover Container fünf"></a>
 {{< /flex-column >}}
 {{< flex-column >}}
-Der erste Teil der Solomon-Boldt Reihe **Container fünf** erschien im Dezember 2026.
+Der erste Teil der Solomon-Boldt-Reihe **Container fünf** erscheint im Dezember 2026.
 
 [Mehr zu Container fünf](/container-fuenf/)
 {{< /flex-column >}}
