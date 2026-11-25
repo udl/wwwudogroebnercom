@@ -18,7 +18,7 @@ wilst, dann trag dich einfach in den **Newsletter** ein:
 
 {{< flex >}}
 {{< flex-column >}}
-[![Cover waldwellenreiten](/waldwellenreiten/waldwellenreiten_cover.jpg)](/waldwellenreiten/)
+<a href="/waldwellenreiten/"><img class="book-cover" src="/waldwellenreiten/waldwellenreiten_cover.jpg" alt="Cover waldwellenreiten"></a>
 {{< /flex-column >}}
 {{< flex-column >}}
 Die Erzählung **waldwellenreiten** erschien im Sommer 2018 als
@@ -32,10 +32,10 @@ Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.
 
 {{< flex >}}
 {{< flex-column >}}
-[![Cover Container fünf](/container-fuenf/container_fuenf.jpg)](/container-fuenf/)
+<a href="/container-fuenf/"><img class="book-cover" src="/container-fuenf/container_fuenf.jpg" alt="Cover Container fünf"></a>
 {{< /flex-column >}}
 {{< flex-column >}}
-Informationen folgen.
+Der erste Teil der Solomon-Boldt Reihe **Container fünf** erschien im Dezember 2026.
 
 [Mehr zu Container fünf](/container-fuenf/)
 {{< /flex-column >}}

@@ -49,7 +49,7 @@ Aber wieso eigentlich nicht?
 
 Eine Geschichte über Zufälle und Lebensentwürfe, sicher geglaubte Wahrheiten und weitreichende Entscheidungen.
 
-### Kaufen
+### Verfügbarkeit
 
 Das Buch ist sowohl im stationären Handel als auch im Internet
 verfügbar:
