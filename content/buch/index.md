@@ -30,6 +30,13 @@ Taschenbuch und eBook. Im Sommer 2022 folgte das Hörbuch.
 
 ## Container fünf
 
+{{< flex >}}
+{{< flex-column >}}
+[![Cover Container fünf](/container-fuenf/container_fuenf.jpg)](/container-fuenf/)
+{{< /flex-column >}}
+{{< flex-column >}}
 Informationen folgen.
 
 [Mehr zu Container fünf](/container-fuenf/)
+{{< /flex-column >}}
+{{< /flex >}}
